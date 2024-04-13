@@ -10,6 +10,9 @@
 
 - [Live Dashboard](https://public.tableau.com/app/profile/subhopriyo.das/viz/Project_Airlines/Airlines)
 
+## Tools used
+
+![icons8-tableau-software-48](https://github.com/subhopriyodas1997/Phoenix_Airlines.Tableau/assets/120428930/f0d5261b-c429-4312-b35d-675cea1495cf)
 
 ## Presentation
 
