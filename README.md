@@ -14,6 +14,10 @@
 
 ![icons8-tableau-software-48](https://github.com/subhopriyodas1997/Phoenix_Airlines.Tableau/assets/120428930/f0d5261b-c429-4312-b35d-675cea1495cf)
 
+## Dashboard Design
+
+![Screenshot 2024-04-13 110024](https://github.com/subhopriyodas1997/Phoenix_Airlines.Tableau/assets/120428930/89ab8edd-86bd-4f9a-9306-32eb6997b2ac)
+
 ## Presentation
 
 ![Screenshot 2024-04-13 093920](https://github.com/subhopriyodas1997/Phoenix_Airlines.Tableau/assets/120428930/e7ba8c52-8ba9-44c3-b97f-ba5d4cdf60d4)
