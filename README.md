@@ -9,6 +9,7 @@
 ## Links
 
 - [Interactive Dashboard](https://public.tableau.com/app/profile/subhopriyo.das/viz/Project_Airlines/Airlines)
+- [Link to Presentation]([https://public.tableau.com/app/profile/subhopriyo.das/viz/Project_Airlines/Airlines](https://eduescpeuropeeu-my.sharepoint.com/:p:/g/personal/subhopriyo_das_edu_escp_eu/EY-2P_Zga_tBoRbS8DdNDdoByVKynP2pqePBZWSEW880FA?e=4SAJSi))
 
 ## Tools used
 ![icons8-excel-48](https://github.com/subhopriyodas1997/Phoenix_Airlines.Tableau/assets/120428930/8493f01a-2245-4971-8137-59f4dfcace1f)
